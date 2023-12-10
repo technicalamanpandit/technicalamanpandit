@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm Aman Kumar Pandit 👋
 
-<!--
-**technicalamanpandit/technicalamanpandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌐 [Portfolio](https://yourportfolio.com)
+- 📱 Android Developer
+- 🔧 Skills: Java, Kotlin, Jetpack Compose, Flutter
+- 🌐 Web Development: HTML, CSS, JavaScript
+- 📚 Database: MySQL
+- 📂 More Details: [Linkedin](https://linkedin.com/in/yourusername), [Twitter](https://twitter.com/yourusername), [Instagram](https://instagram.com/yourusername)
 
-Here are some ideas to get you started:
+## Projects
+- [Project 1](https://link-to-project1)
+- [Project 2](https://link-to-project2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- 📧 Email: akpandit84022@gmail.com
+- 🔗 Linkedin: [Linkedin Profile](https://linkedin.com/in/yourusername)
+- 🐦 Twitter: [Twitter](https://twitter.com/yourusername)
+- 📸 Instagram: [Instagram](https://instagram.com/yourusername)
