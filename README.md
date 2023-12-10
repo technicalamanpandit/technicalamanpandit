@@ -2,21 +2,24 @@
 
 ## About Me
 - 🌐 [Portfolio](https://yourportfolio.com)
-- 📱 Android Developer
-- 🔧 Skills: Java, Kotlin, Jetpack Compose, Flutter
-- 🌐 Web Development: HTML, CSS, JavaScript, PHP
-- 📚 Database: MySQL, MongoDB
-- 📂 More Details: [Linkedin](https://linkedin.com/in/yourusername), [Twitter](https://twitter.com/yourusername), [Instagram](https://instagram.com/yourusername)
+- 💻 Full Stack Developer
+- 🔧 Skills: 
+  - Frontend: HTML, CSS, JavaScript, React
+  - Backend: Node.js, Express.js, PHP
+  - Mobile: Flutter (Dart), Java (Android), Kotlin (Android)
+  - Database: MySQL, MongoDB
+- 🌐 App Development: Flutter for cross-platform, Java and Kotlin for native Android apps
 
 ## Projects
-- [Project 1](https://link-to-project1)
-- [Project 2](https://link-to-project2)
+- [Flutter Project](https://link-to-flutter-project)
+- [Native Android Project (Java)](https://link-to-java-project)
+- [Native Android Project (Kotlin)](https://link-to-kotlin-project)
 
 ## Animated README
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=brightgreen)
 
 ## Contact
 - 📧 Email: akpandit84022@gmail.com
-- 🔗 Linkedin: [Linkedin Profile](https://www.linkedin.com/in/aman-kumar-pandit-42b585266/))
+- 🔗 Linkedin: [Linkedin Profile](https://linkedin.com/in/yourusername)
 - 🐦 Twitter: [Twitter](https://twitter.com/yourusername)
 - 📸 Instagram: [Instagram](https://instagram.com/yourusername)
