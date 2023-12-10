@@ -17,6 +17,6 @@
 
 ## Contact
 - 📧 Email: akpandit84022@gmail.com
-- 🔗 Linkedin: [Linkedin Profile](https://linkedin.com/in/yourusername)
+- 🔗 Linkedin: [Linkedin Profile]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/aman-kumar-pandit-42b585266/))
 - 🐦 Twitter: [Twitter](https://twitter.com/yourusername)
 - 📸 Instagram: [Instagram](https://instagram.com/yourusername)
